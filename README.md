@@ -1,8 +1,13 @@
 # Generating-a-Teeth-Image-with-Pix2pix
 2023 Undergraduate Research Project, Creating Teeth Images
 
+# Reference
+- https://github.com/mrzhu-cool/pix2pix-pytorch/blob/master/train.py
+- https://github.com/eriklindernoren/PyTorch-GAN
+- https://www.kaggle.com/code/ibtesama/gan-in-pytorch-with-fid
+- https://github.com/mseitzer/pytorch-fid
 
-📋 연구 내용 요약
+# 📋 연구 내용 요약
 
 Pix2Pix를 이용한 이미지 생성 with FID 평가
 
